@@ -1,1 +1,1 @@
-echo Write-Host test | powershell -Command "IEX"
+echo Write-Host test
